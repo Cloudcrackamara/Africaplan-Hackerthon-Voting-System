@@ -188,11 +188,11 @@ http://localhost:3000
 
 ## Voting Interface
 
-![Voting Interface](./public/images/Voting%20Interface.png)
+![Voting Interface](./public/images/Voting-Interface.png)
 
 ## Candidate Management
 
-![Candidate Management](./public/images/Candidate%20Management.png)
+![Candidate Management](./public/images/Candidate-Management.png)
 
 ## Election Results
 
