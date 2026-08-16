@@ -1,7 +1,4 @@
-Absolutely. Here is the **complete, consolidated README** ready to paste directly into your `README.md`.
-
-````markdown
-# Hackerton 3.0 — Voting Application
+Hackerton 3.0 — Voting Application
 
 A responsive election voting application rebuilt with **Next.js, React, TypeScript, Tailwind CSS, React Icons, and TanStack Query**.
 
@@ -9,7 +6,7 @@ The application allows a fixed group of participants to nominate and edit candid
 
 ---
 
-## Overview
+ Overview
 
 This project is a Next.js rebuild of an earlier vanilla HTML, CSS, and TypeScript voting interface.
 
@@ -39,7 +36,7 @@ The application uses the **Next.js Pages Router**, not the App Router.
 - Current election standings
 - Automatic HOH and AHOH ranking
 
-### Candidate Management
+Candidate Management
 
 - Candidate nomination
 - Candidate list
@@ -47,7 +44,7 @@ The application uses the **Next.js Pages Router**, not the App Router.
 - Inline candidate editing
 - Candidate updates persist during the server session
 
-### Results
+Results
 
 - Current vote totals
 - Election leader
@@ -56,7 +53,7 @@ The application uses the **Next.js Pages Router**, not the App Router.
 - Celebratory winner presentation
 - CSS-based confetti animation
 
-### UI / UX
+ UI / UX
 
 - Responsive navigation
 - Mobile navigation drawer
@@ -73,13 +70,13 @@ The application uses the **Next.js Pages Router**, not the App Router.
 
 | Technology | Purpose |
 |---|---|
-| **Next.js** | React framework and API routes |
-| **React** | Component-based UI |
-| **TypeScript** | Type safety and application logic |
-| **Tailwind CSS v4** | Styling and responsive design |
-| **TanStack Query** | Server-state management and API interactions |
-| **React Icons** | UI and decorative icons |
-| **Bun** | JavaScript runtime and package manager |
+| Next.js | React framework and API routes |
+| React | Component-based UI |
+| TypeScript | Type safety and application logic |
+| Tailwind CSS v4 | Styling and responsive design |
+| TanStack Query | Server-state management and API interactions |
+| React Icons| UI and decorative icons |
+| Bun | JavaScript runtime and package manager |
 
 ---
 
@@ -87,26 +84,6 @@ The application uses the **Next.js Pages Router**, not the App Router.
 
 This project was initialized and developed using **Bun** and the **Next.js Pages Router**.
 
-### Prerequisites
-
-Before getting started, make sure you have:
-
-- [Bun](https://bun.sh/) installed
-- Git installed
-
-Verify Bun:
-
-```bash
-bun --version
-````
-
-Verify Git:
-
-```bash
-git --version
-```
-
----
 
 ## Installation
 
@@ -207,22 +184,19 @@ http://localhost:3000
 
 <!-- Add your voting page screenshot here -->
 
-![Voting Interface](./screenshots/voting-interface.png)
+# Screenshots
+
+## Voting Interface
+
+![Voting Interface](./public/images/Voting%20Interface.png)
 
 ## Candidate Management
 
-<!-- Add your candidate management screenshot here -->
-
-![Candidate Management](./screenshots/candidate-management.png)
+![Candidate Management](./public/images/Candidate%20Management.png)
 
 ## Election Results
 
-<!-- Add your election results screenshot here -->
-
-![Election Results](./screenshots/election-results.png)
-
-
-
+![Election Results](./public/images/election-results.png)
 ---
 
 # Live Demo
